@@ -73,7 +73,7 @@ Customer_Shopping_Analysis_PowerBI/
 
 ---
 
-## 👤 Author
+## Author
 **Abhi – Power BI Developer & Data Analyst**  
 Skilled in creating Data Visualizations, BI Dashboards & Business Insights
 
